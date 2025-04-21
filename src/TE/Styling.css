@@ -1,0 +1,22 @@
+
+.tr_in_tbCont{
+    height: 2rem;
+}
+.table_Container table {
+    border-collapse: collapse; /* Gets rid of gaps between cells */
+    width: 100%; /* Ensures table uses full width of container */
+  }
+  
+  .table_Container th,
+  .table_Container td {
+    /* Or even 0px if you want no space */
+    margin: 0;
+    text-align: center; /* Optional, for alignment */
+    white-space: nowrap; /* Prevents text wrapping, if that's desired */
+     /* Smaller text can help fit content */
+  }
+  
+  .tr_in_tbCont {
+    height: 40px; /* Optional: controls the row height */
+  }
+  

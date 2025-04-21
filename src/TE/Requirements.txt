@@ -1,0 +1,26 @@
+user,mentor,admin(login)
+-1st user login
+
+use material ui
+
+try(show table acording to day, week, and month, and also try to add or delete row according to month days)
+
+weekly table (monday to sunday)
+table contents
+
+    date (try automatic date schedule, week wise, when selected do it) (show range, then only table can be created)
+    login time
+    logoff time
+    task (multiple task add button)
+    work time (auto matically calculated)
+    working status like working, leave,sick leave, partial working, holiday(try if leave or holiday disable input)
+    login user( id, name, username, password)
+    save to 
+    submit when entire form is filled(all days) and (try to delete fomr) and 
+
+    when submit add data in two arrays one for mentor and anothe for admin
+
+
+Components to be used
+
+    https://mui.com/x/react-date-pickers/validation/
