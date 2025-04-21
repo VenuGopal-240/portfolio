@@ -42,14 +42,7 @@ const Skills = () => {
               transition: "transform 0.3s ease, box-shadow 0.3s ease",
               backgroundColor: "#fff",
             }}
-            onMouseEnter={(e) => {
-              e.target.style.transform = "scale(1.05)";
-              e.target.style.boxShadow = "0 8px 16px rgba(0, 0, 0, 0.2)";
-            }}
-            onMouseLeave={(e) => {
-              e.target.style.transform = "scale(1)";
-              e.target.style.boxShadow = "0 4px 12px rgba(0, 0, 0, 0.1)";
-            }}
+         
           >
             <h2 style={{ textAlign: "center", color: "#333", fontSize: "1.5rem" }}>
               Front-End
@@ -74,14 +67,7 @@ const Skills = () => {
               transition: "transform 0.3s ease, box-shadow 0.3s ease",
               backgroundColor: "#fff",
             }}
-            onMouseEnter={(e) => {
-              e.target.style.transform = "scale(1.05)";
-              e.target.style.boxShadow = "0 8px 16px rgba(0, 0, 0, 0.2)";
-            }}
-            onMouseLeave={(e) => {
-              e.target.style.transform = "scale(1)";
-              e.target.style.boxShadow = "0 4px 12px rgba(0, 0, 0, 0.1)";
-            }}
+          
           >
             <h2 style={{ textAlign: "center", color: "#333", fontSize: "1.5rem" }}>
               Back-End
@@ -106,14 +92,7 @@ const Skills = () => {
               transition: "transform 0.3s ease, box-shadow 0.3s ease",
               backgroundColor: "#fff",
             }}
-            onMouseEnter={(e) => {
-              e.target.style.transform = "scale(1.05)";
-              e.target.style.boxShadow = "0 8px 16px rgba(0, 0, 0, 0.2)";
-            }}
-            onMouseLeave={(e) => {
-              e.target.style.transform = "scale(1)";
-              e.target.style.boxShadow = "0 4px 12px rgba(0, 0, 0, 0.1)";
-            }}
+          
           >
             <h2 style={{ textAlign: "center", color: "#333", fontSize: "1.5rem" }}>
               Database
